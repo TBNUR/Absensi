@@ -1,0 +1,19 @@
+aplikasi-absensi/
+├── backend/
+│   ├── package.json
+│   ├── server.js
+│   ├── db.js
+│   ├── routes/
+│   │   ├── absensiRoutes.js
+│   │   ├── userRoutes.js
+│   └── models/
+│       ├── Absensi.js
+│       ├── User.js
+└── frontend/
+    ├── public/
+    ├── src/
+    │   ├── App.js
+    │   ├── components/
+    │   │   ├── Login.js
+    │   │   ├── Dashboard.js
+    │   │   ├── History.js
